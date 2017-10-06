@@ -14,7 +14,7 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
             
                 String URL = "jdbc:mysql://localhost:3306/sakila";
                 String USERNAME = "root";
-                String PASSWORD = "Gotigers12";
+                String PASSWORD = "----------";
 
                 Connection connection = null;
                 PreparedStatement insertActors = null;
